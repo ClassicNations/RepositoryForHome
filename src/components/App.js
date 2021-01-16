@@ -7,7 +7,7 @@ class App extends Component {
     super(props);
     this.state = {
       address : '',
-      key: 'AIzaSyBvloS4OahFAEgjuX67ntBAB6FgdVhQgZU',
+      key: '',
       long: '',
       lat: ''
     };
